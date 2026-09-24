@@ -6,7 +6,6 @@ and publishes a PIN-protected gallery, and a customer views it with just a
 link and a PIN — no account needed.
 
 ## 1. Project overview
-
 - **Backend:** Node.js, Express, TypeScript, Prisma ORM, JWT auth.
 - **Frontend:** React (Vite, TypeScript), React Router, plain CSS (no UI
   framework — a small custom design system, see `frontend/src/styles/tokens.css`).
