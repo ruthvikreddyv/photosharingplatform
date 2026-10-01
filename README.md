@@ -1,5 +1,6 @@
 # Contact Sheet — Photo Sharing Platform
 
+
 A full-stack submission for the TrizenAI Full-Stack Internship Challenge: a
 photography/event team collaboratively uploads photos, a Lead/Admin curates
 and publishes a PIN-protected gallery, and a customer views it with just a
